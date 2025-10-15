@@ -7,4 +7,6 @@
 <br>
 <p>diajukan sebagai penyelesaian salah satu penugasan dari matakuliah pemrograman web 1</p>
 <br> 
-![Uploading Screenshot 2025-10-15 201937.png…]()
+<p>Berikut ini merupakan hasil nya: </p>
+
+##![Uploading Screenshot 2025-10-15 201937.png…]() 
