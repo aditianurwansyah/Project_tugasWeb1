@@ -9,4 +9,4 @@
 <br> 
 <p>Berikut ini merupakan hasil nya: </p>
 
-##![Uploading Screenshot 2025-10-15 201937.png…]() 
+![Uploading Screenshot 2025-10-15 201937.png…]() 
