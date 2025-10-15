@@ -5,3 +5,6 @@
 <p>Nama: Aditia Nurwansyah</p>
 <p>Kelas: TIF RP 23 CNS A</p>
 <br>
+<p>diajukan sebagai penyelesaian salah satu penugasan dari matakuliah pemrograman web 1</p>
+<br> 
+![Uploading Screenshot 2025-10-15 201937.png…]()
